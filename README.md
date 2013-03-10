@@ -3,7 +3,7 @@ Frendly CMS
 My hobby project for creating more user friendly CMS content editor for end users who will 
 edit their own web page. 
 
-Demo can be found [here](https://lukasemolic.si/frendly/).
+Demo can be found [here](http://lukasemolic.si/frendly/).
 
 Tools and framework using in this projects are:
 
